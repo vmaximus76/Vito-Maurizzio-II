@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Food Cost Calculator",
+  "description": "A web application for restaurant owners to manage ingredients, define menu item recipes, and calculate food costs to determine profitability.",
+  "requestFramePermissions": []
+}
